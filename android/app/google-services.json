@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "847719498318",
+    "firebase_url": "https://shiftus-ac06c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shiftus-ac06c",
+    "storage_bucket": "shiftus-ac06c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847719498318:android:69b554b5837f0ceab3791f",
+        "android_client_info": {
+          "package_name": "com.example.cargo_connect_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiVFjDx8V6gD-n0Vpe4QgC-ndCEu7G_VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847719498318:android:4ad7e2292601ca90b3791f",
+        "android_client_info": {
+          "package_name": "com.example.shiftus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiVFjDx8V6gD-n0Vpe4QgC-ndCEu7G_VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
